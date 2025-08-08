@@ -155,7 +155,7 @@ void testcase3(void) {
 }
 
 void testcase4(void) {
-	puts("testcase3------------------------------------------");
+	puts("testcase4------------------------------------------");
 	addmylist(10, "Hoon", "010-1111-1111");
 	addmylist(12, "choi", "010-2222-2222");
 	addmylist(13, "jang", "010-3333-3333");
@@ -176,4 +176,5 @@ int main(void)
 	testcase3();
 	testcase4();
 	return 0;
+
 }
